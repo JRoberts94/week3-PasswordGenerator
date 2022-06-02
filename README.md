@@ -42,4 +42,4 @@ JavaScript
 ## Links
 * [Link to deployed Website]()
 * [Link to github Repository](https://github.com/JRoberts94/week3-PasswordGenerator)
-* ![Screenshot](./PasswordGenerator-screenshot.png)
+* ![Screenshot](./Develop/images/PasswordGenerator-screenshot.png)
